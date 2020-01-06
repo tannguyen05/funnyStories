@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "8919046751",
+    "firebase_url": "https://ferrous-freedom-246407.firebaseio.com",
+    "project_id": "ferrous-freedom-246407",
+    "storage_bucket": "ferrous-freedom-246407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8919046751:android:c1c7cd5d0cab20336159ea",
+        "android_client_info": {
+          "package_name": "com.funnystory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8919046751-bokj0v5cdohahaposcve3oe3ntdumovs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funnystory",
+            "certificate_hash": "e8fb1188b3add2bd3067d10a95269b00c7912967"
+          }
+        },
+        {
+          "client_id": "8919046751-m987o2bejaf931mkouir9g26h3estb4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funnystory",
+            "certificate_hash": "cb1084d970e5dcfab3095accbba2e98ab91bcd03"
+          }
+        },
+        {
+          "client_id": "8919046751-8kr9aqu0d8ptms5bt0dqodrsoikvhjmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ORgGsBqIaEPGIq9a5exefP-vKVab7Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8919046751-8kr9aqu0d8ptms5bt0dqodrsoikvhjmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
